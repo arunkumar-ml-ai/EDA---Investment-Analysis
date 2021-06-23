@@ -1,7 +1,7 @@
 # EDA-Investment-Analysis
 
-You can view the analyis in notebook-investment-analysis.ipynb file.
-I have also attached the 'csv' files used in the analysis ~ for your ref.
+You can view the analyis in **notebook-investment-analysis.ipynb** file<br/>
+I have also attached the 'csv' files used in the analysis ~ for your ref<br/>
 
 Project Brief:
 Spark Funds, an asset management company wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively
