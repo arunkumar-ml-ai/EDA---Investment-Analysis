@@ -12,11 +12,11 @@ Spark Funds has two minor constraints for investments
  - It wants to invest only in English-speaking countries because of the ease of communication with the companies it would invest in
 
 
-1. What is the strategy?
+1.What is the strategy?
 
 Spark Funds wants to invest where most other investors are investing. This pattern is often observed among early stage startup investors.
 
-2. Where did we get the data from? 
+2.Where did we get the data from? 
 
 We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
 mapping.csv
@@ -24,7 +24,7 @@ rounds2.csv
 companies.csv
  
 
-3. What is Spark Funds’ business objective?
+3.What is Spark Funds’ business objective?
 
 The business objectives and goals of data analysis are pretty straightforward.<br/>
 
