@@ -18,10 +18,10 @@ Spark Funds wants to invest where most other investors are investing. This patte
 
 2.Where did we get the data from? 
 
-We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files:
-mapping.csv
-rounds2.csv
-companies.csv
+We have taken real investment data from crunchbase.com, so the insights you get may be incredibly useful. For this assignment, we have divided the data into the following files in CSV folder<br/>
+mapping.csv<br/>
+rounds2.csv<br/>
+companies.csv<br/>
  
 
 3.What is Spark Funds’ business objective?
